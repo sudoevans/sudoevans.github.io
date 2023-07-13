@@ -1,7 +1,7 @@
 # Fuck you!
 
 <!-- Image -->
-!["Flokr"]('./flork.jpg')
+!["Flokr"](https://github.com/sudoevans/sudoevans.github.io/blob/main/flork.jpg)
 
 ## Love you guys,no homo
-I was'nt  born with enough middle fingers to show you how much I feel about you.
+I wasn't  born with enough middle fingers to show you how much I feel about you.
